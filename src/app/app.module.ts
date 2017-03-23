@@ -12,8 +12,7 @@ import { EntryListComponent, EntryComponent } from './entries';
     declarations: [
         AppComponent,
         EntryComponent,
-        EntryListComponent,
-        
+        EntryListComponent
     ],
     bootstrap: [AppComponent] 
 })
